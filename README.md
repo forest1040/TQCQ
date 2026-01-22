@@ -1,1 +1,1 @@
-# TQCQ: Tour of the quantum computing
+# TQCQ: Tour of the quantum computing by QIQB
